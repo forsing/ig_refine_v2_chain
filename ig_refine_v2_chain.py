@@ -286,7 +286,7 @@ P0 → P1 → P2  |  μ = mean |pred ∩ S_t|
 {'n_eval': 84, 'mu_P0': 1.1429, 'mu_P1': 1.3929, 'mu_P2': 1.4405, 'P0_sqsubseteq_P1': True, 'P1_sqsubseteq_P2': True, 'chain': True}
 
 === next (P2 na celom CSV) ===
-next: [1, 13, 16, 18, 20, 30, 34]
+next: [1, x, 16, y, 20, z, 34]
 """
 
 
